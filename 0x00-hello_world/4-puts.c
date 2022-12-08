@@ -3,7 +3,7 @@
 /*
  *   main - Entry point
  *
- *   Description:Prints the size of various types of data
+ *   Description: 'the program's description'
  *
  *   Return: Always 0 (Success)
  *
