@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _islower - short description, single line
- * @c: Description
- * Return: Always 0
+ * _islower- short description, single line
+ * @c: Descriptin
+ * Return: Always 0.
  */
-int _islower(int c);
+int _islower(int c)
 
 {
 	if (c > 'a' && c < 'z')
@@ -16,5 +16,4 @@ int _islower(int c);
 	{
 		return (0);
 	}
-
 }
