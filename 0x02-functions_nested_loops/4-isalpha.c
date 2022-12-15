@@ -2,17 +2,16 @@
 
 /**
  * main - check the code.
- * Return: Always 0
+ * Return: Always 0.
  */
-int _islower(int c)
+int _isalpha(int c)
 {
-	if (c > 'a' && c < 'z')
+	if (c >= 65 && c <= 122)
 	{
 		return (1);
 	}
 	else
 	{
-		return (0);
+	return (0);
 	}
-
 }
