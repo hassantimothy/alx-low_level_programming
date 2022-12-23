@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints 98 when you add a new line of code
- * Return: 0 always
+ * main - prints 98 when you add a new line of code.
+ * Return: 0 always.
  */
 int main(void)
 {
@@ -14,10 +14,10 @@ int main(void)
 	/*
 	 * write your line of code here...
 	 *  Remember:
-	 *  - you are not allowed to use a
-	 *  - you are not allowed to modify p
-	 *  - only one statement
-	 *  - you are not allowed to code anything else than this line of code
+	 *  - you are not allowed to use a.
+	 *  - you are not allowed to modify p.
+	 *  - only one statement.
+	 *  - you are not allowed to code anything else than this line of code.
 	 */
 	*(p + 5) = 98;
 	/* ...so that this printsm 98\n */
